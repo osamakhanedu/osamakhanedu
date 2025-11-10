@@ -5,16 +5,10 @@
 
 ---
 
-### 🧠 About Me
-- 🔭 Currently working on enterprise and e-commerce solutions  
-- 🌱 Learning **Golang** and exploring backend architecture patterns  
-- ⚙️ Experienced in **PostgreSQL, Redis, Docker, Kafka, and ELK Stack**  
-- 💬 Ask me about **Full Stack Development, REST APIs, and system design**  
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/your-custom-url/)**  
 
 ## 🧠 About Me
 - 💼 Currently working as a **Senior Software Engineer**
-- 🧩 Experienced in **backend architecture**, **microservices**, and **real-time systems**
+- 🧩 Experienced in **backend development**, **microservices**, and **real-time systems**
 - ⚙️ Strong background in **PostgreSQL**, **Redis**, **RabbitMQ**, **Docker**, and **Kubernetes**
 - 🧑‍💻 Skilled in both **frontend (React, Next.js, Angular)** and **backend (Node.js, Golang)**
 - ☁️ Proficient in **AWS**, **Azure DevOps**, and **Linux**
