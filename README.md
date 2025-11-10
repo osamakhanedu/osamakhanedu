@@ -31,4 +31,4 @@
 
 ---
 
-⭐ From [yourusername](https://github.com/osamakhanedu)
+⭐ From [Osama Zafar](https://github.com/osamakhanedu)
