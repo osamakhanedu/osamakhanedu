@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Osama Zafar  
 
-🚀 **Full Stack Software Engineer** with 7+ years of experience building scalable web applications and digital products.  
-💻 Skilled in **React.js, Node.js, Next.js, NestJS, Angular, JavaScript, and TypeScript.**
+🚀 **Full Stack Software Engineer** with 8+ years of experience building scalable web applications and digital products.  
+💻 Skilled in **React.js, Node.js, Next.js, NestJS, Angular, JavaScript, TypeScript, and Golang.**
 
 ---
 
@@ -11,7 +11,7 @@
 - 🧩 Experienced in **backend development**, **microservices**, and **real-time systems**
 - ⚙️ Strong background in **PostgreSQL**, **Redis**, **RabbitMQ**, **Docker**, and **Kubernetes**
 - 🧑‍💻 Skilled in both **frontend (React, Next.js, Angular)** and **backend (Node.js, Golang)**
-- ☁️ Proficient in **AWS**, **Azure DevOps**, and **Linux**
+- ☁️ Proficient in **AWS**, **Azure**, and **Linux**
 - 🎯 Passionate about building **scalable, maintainable**, and **impactful** software products
 
 
